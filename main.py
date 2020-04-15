@@ -1,2 +1,3 @@
 print('Hello GIT')
-print('Hoy hablare de mi vida')
+print('Algo importante')
+print('Estoy con un bug pero he hecho cosas importantes en este momento')
